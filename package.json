@@ -1,0 +1,22 @@
+{
+  "name": "humanity-api",
+  "version": "0.0.1",
+  "description": "Humanity (formerly Shift Planning) API wrapper",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "bluebird": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "humanity",
+    "shift",
+    "planning",
+    "api"
+  ],
+  "author": "Travis Boudreaux <travis@waitrapp.com>",
+  "license": "ISC"
+}
